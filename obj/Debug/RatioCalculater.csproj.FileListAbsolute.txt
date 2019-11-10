@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\bin\Debug\RatioCalculater.exe.config
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\bin\Debug\RatioCalculater.exe
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\bin\Debug\RatioCalculater.pdb
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\App.g.cs
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater_MarkupCompile.cache
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater_MarkupCompile.lref
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.g.resources
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.Properties.Resources.resources
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.exe
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\RatioCalculater.pdb
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\App.baml
+C:\Users\user\source\repos\RatioCalculater\RatioCalculater\obj\Debug\Dictionary1.baml
